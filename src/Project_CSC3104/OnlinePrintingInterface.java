@@ -68,6 +68,7 @@ public class OnlinePrintingInterface extends Application {
         primaryStage.setTitle("Customer Details");
         primaryStage.setScene(scene);
         primaryStage.show();
+        hahaah
     }
 
     // Stage 2: Print Options
