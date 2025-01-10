@@ -11,13 +11,6 @@ import javafx.stage.Stage;
 import java.io.File;
 import java.util.UUID;
 
-//helooooooooooo
-// jjjjjjj
-//hungry?
-//eat what
-//how are you a
-//I am Sio Zicin+
-
 public class OnlinePrintingInterface extends Application {
 
     private String orderId;
